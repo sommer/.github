@@ -1,7 +1,7 @@
 ---
 name: default issue template
-about: ":arrow_right: Please use this template for all issues, if no more specific
-  template exists :arrow_right:"
+about: Please use this template for all issues, if no more specific template exists
+  ➡
 title: ''
 labels: ''
 assignees: ''
