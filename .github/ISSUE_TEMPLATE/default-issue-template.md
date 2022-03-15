@@ -1,7 +1,6 @@
 ---
-name: default issue template
-about: Please use this template for all issues, if no more specific template exists
-  ➡
+name: Default issue template
+about: Please use this template for all issues if no more specific template exists
 title: ''
 labels: ''
 assignees: ''
@@ -14,7 +13,7 @@ assignees: ''
   - [ ] feature request
   - [ ] support request => Please do not submit support requests here (see the following note)
 
-Note: for support questions, please use [StackOverflow](http://stackoverflow.com/search?q=omnet%2B%2B+veins). This repository's issues are reserved for feature requests and bug reports.
+Note: for support questions, please use StackOverflow, e.g., the [StackOverflow community for OMNeT++ and Veins](http://stackoverflow.com/search?q=omnet%2B%2B+veins). This repository's issues are reserved for feature requests and bug reports.
 
 
 ## What is the current behavior?
